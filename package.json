@@ -1,0 +1,9 @@
+{ 
+  "name": "antidotbot",
+  "version": "1.0.0",
+  "description": "Foloseste codul: ANT1R",
+  "main": "index.js",
+  "scripts": {"start": "node index.js"},
+  "author": "s1lch1san",
+  "license": "ISC"
+}
